@@ -115,6 +115,13 @@ Access admin panel at: `http://127.0.0.1:8000/admin/`
 ---
 
 
+
+## License
+
+This project is open-source and free to use. Modify it as needed for your personal or professional projects.
+
+---
+
 ## 🤝 Contributions
 
 Feel free to fork and contribute. Open a pull request with your suggestions.
