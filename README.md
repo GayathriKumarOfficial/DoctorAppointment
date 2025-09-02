@@ -130,5 +130,5 @@ Feel free to fork and contribute. Open a pull request with your suggestions.
 
 ## 📩 Contact
 
-For queries: [gayathrikumarofficial@example.com]
+For queries: [gayathrikumarofficial@gmail.com]
 LinkedIn:[www.linkedin.com/in/gayathrikumarofficial]
